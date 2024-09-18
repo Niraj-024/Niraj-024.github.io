@@ -1,2 +1,2 @@
-# Niraj-024.github.io
+# Niraj.github.io
 This is my webpage for homefixer
