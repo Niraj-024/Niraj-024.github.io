@@ -1,2 +1,2 @@
-# Niraj_HomeFixer.github.io
-This is my webpage for homefixer
+# Niraj_HomeFixer.github
+A household service hiring platform
